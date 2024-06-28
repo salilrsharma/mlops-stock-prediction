@@ -3,3 +3,9 @@ yfinance
 plotly
 jupyter
 feast
+requests
+beautifulsoup4
+azure-storage-blob
+azure-storage-file-datalake
+azure-identity
+python-dotenv
